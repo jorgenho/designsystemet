@@ -1,0 +1,1 @@
+import{k as f,m as l}from"./docs-D-EcopR4.js";import"./chunk-62JRHF6Z-Cq4o6puv.js";import"./router-link-CCbPrFZv.js";import"./index-C7Lu9fNF.js";import"./public-url-a6YwxxU7.js";import"./example-url-BbyiBKry.js";import"./root-CxCtq7tc.js";import"./docs.module-DVS3DDbE.js";export{f as clientLoader,l as default};
